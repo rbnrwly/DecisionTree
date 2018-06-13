@@ -1,0 +1,25 @@
+*.suo
+*.user
+*.sln.docstates
+
+# Build 
+[Dd]ebug/
+[Rr]elease/
+x64/
+[Bb]in/
+[Oo]bj/
+.vs/
+
+# Test
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# Files
+*.obj
+*.pch
+*.pdb
+*.tmp
+*.log
+*.vsp
+*.[Cc]ache
+Thumbs.db
